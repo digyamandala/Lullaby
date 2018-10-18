@@ -1,2 +1,2 @@
 # Lullaby
-Simple pitch detection website
+Simple sound-spectrum website
